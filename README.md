@@ -8,9 +8,5 @@ Backend needs a few changes before working.
 4. create your google sheets, and copy it's ID. Paste it in the backend wherever required.
 6. Use the credentials.json file to get access to your google sheets.
 7. The backend is properly commented, so things are self explanatory.
-8. If you need other help, follow these resources:
-    >  Sending emails via sendGrid: https://www.youtube.com/watch?v=qFDgH6dHRA4&ab_channel=MafiaCodes
-    >  Using google sheets as a Database: https://www.youtube.com/watch?v=PFJNJQCU_lo&ab_channel=JamesGrimshaw
-
 
 Thank you for hanging around!
